@@ -1,0 +1,3 @@
+/home/timlock/VerteilteSysteme/AB2/tcpWebserver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/timlock/VerteilteSysteme/AB2/tcpWebserver/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timlock/VerteilteSysteme/AB2/tcpWebserver/cmake-build-debug/CMakeFiles/tcpWebserver.dir
